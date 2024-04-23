@@ -1,0 +1,4 @@
+Washington Park;456 Elm St, Washington, DC 20001
+Sarah Lee;3;GHI-246;2012;50;50000
+James Kim;6;JKL-369;2011;45;45000
+Jessica Chen;4;MNO-582;2014;55;55000

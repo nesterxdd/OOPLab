@@ -1,0 +1,4 @@
+Central Park;123 Main St, New York, NY 10019
+John Smith;5;XYZ-123;2010;40;40000
+Emily Johnson;2;ABC-456;2015;30;30000
+Mike Davis;8;DEF-789;2009;35;35000
